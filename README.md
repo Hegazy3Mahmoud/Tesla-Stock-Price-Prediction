@@ -29,5 +29,5 @@ At the end of our predictions, we encountered difficulties because the stock pri
 
 The chart below shows the comparison between the actual and predicted stock prices:
 
-![download](https://github.com/user-attachments/assets/879ab1a0-f398-4f8f-b05c-05669a7d3a7d)
 
+![download](https://github.com/user-attachments/assets/f493ea80-e194-41cc-9766-faa6b4020c03)
